@@ -10,13 +10,6 @@ customizable AI experience.
 <a href="https://packagist.org/packages/ardagnsrn/ollama-php"><img alt="License" src="https://img.shields.io/github/license/ardagnsrn/ollama-php"></a>
 </p>
 
-## ☕️ Buy me a coffee
-
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying
-me a coffee, so I can dedicate more time on open-source projects like this :)
-
-<a href="https://www.buymeacoffee.com/ardagnsrn" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
 ## Table of Contents
 
 - [Get Started](#get-started)
@@ -47,7 +40,6 @@ me a coffee, so I can dedicate more time on open-source projects like this :)
 - [Testing](#testing)
 - [Changelog](#changelog)
 - [Contributing](#contributing)
-- [Credits](#credits)
 - [License](#license)
 
 ## Get Started
@@ -370,11 +362,6 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 ## Contributing
 
 Please see [CONTRIBUTING](https://github.com/spatie/.github/blob/main/CONTRIBUTING.md) for details.
-
-## Credits
-
-- [Arda GUNSUREN](https://github.com/ArdaGnsrn)
-- [All Contributors](../../contributors)
 
 ## License
 
