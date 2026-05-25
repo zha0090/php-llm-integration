@@ -5,9 +5,9 @@ for running LLMs on your local
 machine. It acts as a bridge between the complexities of LLM technology and the desire for an accessible and
 customizable AI experience.
 <p align="left">
-<a href="https://packagist.org/packages/ardagnsrn/ollama-php"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/ardagnsrn/ollama-php"></a>
-<a href="https://packagist.org/packages/ardagnsrn/ollama-php"><img alt="Latest Version" src="https://img.shields.io/packagist/v/ardagnsrn/ollama-php"></a>
-<a href="https://packagist.org/packages/ardagnsrn/ollama-php"><img alt="License" src="https://img.shields.io/github/license/ardagnsrn/ollama-php"></a>
+    <a href="https://packagist.org/packages/ardagnsrn/ollama-php"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/ardagnsrn/ollama-php"></a>
+    <a href="https://packagist.org/packages/ardagnsrn/ollama-php"><img alt="Latest Version" src="https://img.shields.io/packagist/v/ardagnsrn/ollama-php"></a>
+    <a href="https://packagist.org/packages/ardagnsrn/ollama-php"><img alt="License" src="https://img.shields.io/github/license/ardagnsrn/ollama-php"></a>
 </p>
 
 ## Table of Contents
